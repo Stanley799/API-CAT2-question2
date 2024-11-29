@@ -1,4 +1,7 @@
 # API-CAT2-question2
+Stanley Otieno Oduor 
+166601 
+BBIT 2.2B
 
 # Product API
 
